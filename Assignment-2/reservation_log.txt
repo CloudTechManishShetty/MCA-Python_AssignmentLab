@@ -1,0 +1,2 @@
+BOOKED: Flight AI101, Seat 1, Passenger: Manish Shetty
+BOOKED: Flight AI101, Seat 2, Passenger: Ganesh Katare

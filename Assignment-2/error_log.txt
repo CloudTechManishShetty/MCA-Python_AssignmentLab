@@ -1,0 +1,2 @@
+[2025-10-26 11:26:39] CODE: 4001_MISSING_KEY | EXCEPTION: Missing dictionary key: 'username'
+[2025-10-26 11:26:39] CODE: 5002_ZERO_DIV | EXCEPTION: division by zero
